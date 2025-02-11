@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    background: #ffe485;
+}
+
+p {
+    background: #ffe485;
+}
+
+img {
+    width: 50%;
+    max-width: 500px;
+}
+
+a {
+    display: block;
+    background: #ffe485;
+    
+}

@@ -1,2 +1,2 @@
 # community-board-workshop-boilerplate
-boilerplate for *Intro to HTML and CSS* workshop
+template for community board workshop
